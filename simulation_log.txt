@@ -1,0 +1,26 @@
+2024-11-17 23:28:02,556 - INFO - Initial Graph Structure:
+2024-11-17 23:28:02,556 - INFO - Node 0: Capacity=10, Signal Cycle=40.02
+2024-11-17 23:28:02,556 - INFO - Node 1: Capacity=6, Signal Cycle=50.09
+2024-11-17 23:28:02,556 - INFO - Node 2: Capacity=10, Signal Cycle=96.66
+2024-11-17 23:28:02,556 - INFO - Node 3: Capacity=9, Signal Cycle=67.97
+2024-11-17 23:28:02,556 - INFO - Node 4: Capacity=6, Signal Cycle=50.94
+2024-11-17 23:28:02,556 - INFO - Node 5: Capacity=9, Signal Cycle=47.90
+2024-11-17 23:28:02,556 - INFO - Node 6: Capacity=9, Signal Cycle=67.76
+2024-11-17 23:28:02,556 - INFO - Node 7: Capacity=7, Signal Cycle=102.85
+2024-11-17 23:28:02,556 - INFO - Node 8: Capacity=6, Signal Cycle=92.83
+2024-11-17 23:28:02,556 - INFO - Node 9: Capacity=6, Signal Cycle=49.38
+2024-11-17 23:28:02,556 - INFO - Edge 0->1: Capacity=5
+2024-11-17 23:28:02,556 - INFO - Edge 0->8: Capacity=5
+2024-11-17 23:28:02,556 - INFO - Edge 1->0: Capacity=8
+2024-11-17 23:28:02,556 - INFO - Edge 1->8: Capacity=5
+2024-11-17 23:28:02,556 - INFO - Edge 1->9: Capacity=7
+2024-11-17 23:28:02,556 - INFO - Edge 2->6: Capacity=7
+2024-11-17 23:28:02,556 - INFO - Edge 3->2: Capacity=9
+2024-11-17 23:28:02,556 - INFO - Edge 3->8: Capacity=7
+2024-11-17 23:28:02,556 - INFO - Edge 4->3: Capacity=5
+2024-11-17 23:28:02,556 - INFO - Edge 4->0: Capacity=10
+2024-11-17 23:28:02,556 - INFO - Edge 5->4: Capacity=8
+2024-11-17 23:28:02,556 - INFO - Edge 6->0: Capacity=9
+2024-11-17 23:28:02,556 - INFO - Edge 6->3: Capacity=5
+2024-11-17 23:28:02,556 - INFO - Edge 7->9: Capacity=8
+2024-11-17 23:28:02,556 - INFO - Edge 8->9: Capacity=5

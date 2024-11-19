@@ -1,0 +1,251 @@
+2024-11-16 22:29:33,601 - INFO - Initial Graph Structure:
+2024-11-16 22:29:33,601 - INFO - Node 0: Capacity=10, Signal Cycle=40.02
+2024-11-16 22:29:33,601 - INFO - Node 1: Capacity=6, Signal Cycle=50.09
+2024-11-16 22:29:33,601 - INFO - Node 2: Capacity=10, Signal Cycle=96.66
+2024-11-16 22:29:33,601 - INFO - Node 3: Capacity=9, Signal Cycle=67.97
+2024-11-16 22:29:33,601 - INFO - Node 4: Capacity=6, Signal Cycle=50.94
+2024-11-16 22:29:33,601 - INFO - Node 5: Capacity=9, Signal Cycle=47.90
+2024-11-16 22:29:33,601 - INFO - Node 6: Capacity=9, Signal Cycle=67.76
+2024-11-16 22:29:33,601 - INFO - Node 7: Capacity=7, Signal Cycle=102.85
+2024-11-16 22:29:33,601 - INFO - Node 8: Capacity=6, Signal Cycle=92.83
+2024-11-16 22:29:33,601 - INFO - Node 9: Capacity=6, Signal Cycle=49.38
+2024-11-16 22:29:33,601 - INFO - Node 10: Capacity=5, Signal Cycle=38.35
+2024-11-16 22:29:33,601 - INFO - Node 11: Capacity=7, Signal Cycle=84.34
+2024-11-16 22:29:33,601 - INFO - Node 12: Capacity=10, Signal Cycle=71.35
+2024-11-16 22:29:33,601 - INFO - Node 13: Capacity=8, Signal Cycle=37.09
+2024-11-16 22:29:33,601 - INFO - Node 14: Capacity=10, Signal Cycle=85.67
+2024-11-16 22:29:33,601 - INFO - Node 15: Capacity=9, Signal Cycle=47.31
+2024-11-16 22:29:33,601 - INFO - Node 16: Capacity=10, Signal Cycle=50.51
+2024-11-16 22:29:33,601 - INFO - Node 17: Capacity=5, Signal Cycle=106.98
+2024-11-16 22:29:33,601 - INFO - Node 18: Capacity=8, Signal Cycle=55.02
+2024-11-16 22:29:33,601 - INFO - Node 19: Capacity=7, Signal Cycle=44.64
+2024-11-16 22:29:33,601 - INFO - Node 20: Capacity=10, Signal Cycle=54.03
+2024-11-16 22:29:33,601 - INFO - Node 21: Capacity=10, Signal Cycle=36.43
+2024-11-16 22:29:33,601 - INFO - Node 22: Capacity=9, Signal Cycle=95.62
+2024-11-16 22:29:33,601 - INFO - Node 23: Capacity=8, Signal Cycle=54.30
+2024-11-16 22:29:33,601 - INFO - Node 24: Capacity=10, Signal Cycle=80.13
+2024-11-16 22:29:33,601 - INFO - Node 25: Capacity=5, Signal Cycle=50.61
+2024-11-16 22:29:33,601 - INFO - Node 26: Capacity=7, Signal Cycle=66.10
+2024-11-16 22:29:33,601 - INFO - Node 27: Capacity=9, Signal Cycle=108.87
+2024-11-16 22:29:33,601 - INFO - Node 28: Capacity=10, Signal Cycle=74.93
+2024-11-16 22:29:33,601 - INFO - Node 29: Capacity=10, Signal Cycle=71.30
+2024-11-16 22:29:33,601 - INFO - Node 30: Capacity=6, Signal Cycle=97.05
+2024-11-16 22:29:33,601 - INFO - Node 31: Capacity=10, Signal Cycle=82.61
+2024-11-16 22:29:33,601 - INFO - Node 32: Capacity=8, Signal Cycle=62.58
+2024-11-16 22:29:33,601 - INFO - Node 33: Capacity=6, Signal Cycle=75.86
+2024-11-16 22:29:33,601 - INFO - Node 34: Capacity=5, Signal Cycle=107.50
+2024-11-16 22:29:33,601 - INFO - Node 35: Capacity=6, Signal Cycle=101.29
+2024-11-16 22:29:33,601 - INFO - Node 36: Capacity=5, Signal Cycle=64.63
+2024-11-16 22:29:33,601 - INFO - Node 37: Capacity=8, Signal Cycle=77.62
+2024-11-16 22:29:33,601 - INFO - Node 38: Capacity=5, Signal Cycle=91.23
+2024-11-16 22:29:33,601 - INFO - Node 39: Capacity=9, Signal Cycle=97.58
+2024-11-16 22:29:33,601 - INFO - Node 40: Capacity=7, Signal Cycle=40.04
+2024-11-16 22:29:33,601 - INFO - Node 41: Capacity=8, Signal Cycle=30.29
+2024-11-16 22:29:33,601 - INFO - Node 42: Capacity=10, Signal Cycle=53.71
+2024-11-16 22:29:33,601 - INFO - Node 43: Capacity=6, Signal Cycle=75.69
+2024-11-16 22:29:33,601 - INFO - Node 44: Capacity=10, Signal Cycle=56.86
+2024-11-16 22:29:33,601 - INFO - Node 45: Capacity=9, Signal Cycle=47.90
+2024-11-16 22:29:33,601 - INFO - Node 46: Capacity=6, Signal Cycle=78.54
+2024-11-16 22:29:33,601 - INFO - Node 47: Capacity=9, Signal Cycle=112.66
+2024-11-16 22:29:33,601 - INFO - Node 48: Capacity=8, Signal Cycle=31.75
+2024-11-16 22:29:33,601 - INFO - Node 49: Capacity=7, Signal Cycle=51.55
+2024-11-16 22:29:33,601 - INFO - Node 50: Capacity=9, Signal Cycle=115.23
+2024-11-16 22:29:33,601 - INFO - Node 51: Capacity=8, Signal Cycle=103.44
+2024-11-16 22:29:33,601 - INFO - Node 52: Capacity=9, Signal Cycle=98.93
+2024-11-16 22:29:33,602 - INFO - Node 53: Capacity=8, Signal Cycle=115.22
+2024-11-16 22:29:33,602 - INFO - Node 54: Capacity=9, Signal Cycle=108.52
+2024-11-16 22:29:33,602 - INFO - Node 55: Capacity=6, Signal Cycle=113.60
+2024-11-16 22:29:33,602 - INFO - Node 56: Capacity=10, Signal Cycle=48.10
+2024-11-16 22:29:33,602 - INFO - Node 57: Capacity=10, Signal Cycle=88.49
+2024-11-16 22:29:33,602 - INFO - Node 58: Capacity=9, Signal Cycle=70.63
+2024-11-16 22:29:33,602 - INFO - Node 59: Capacity=5, Signal Cycle=60.43
+2024-11-16 22:29:33,602 - INFO - Node 60: Capacity=6, Signal Cycle=82.96
+2024-11-16 22:29:33,602 - INFO - Node 61: Capacity=10, Signal Cycle=86.80
+2024-11-16 22:29:33,602 - INFO - Node 62: Capacity=5, Signal Cycle=107.37
+2024-11-16 22:29:33,602 - INFO - Node 63: Capacity=6, Signal Cycle=55.06
+2024-11-16 22:29:33,602 - INFO - Node 64: Capacity=9, Signal Cycle=41.91
+2024-11-16 22:29:33,602 - INFO - Node 65: Capacity=9, Signal Cycle=81.86
+2024-11-16 22:29:33,602 - INFO - Node 66: Capacity=8, Signal Cycle=102.67
+2024-11-16 22:29:33,602 - INFO - Node 67: Capacity=5, Signal Cycle=89.31
+2024-11-16 22:29:33,602 - INFO - Node 68: Capacity=8, Signal Cycle=72.03
+2024-11-16 22:29:33,602 - INFO - Node 69: Capacity=10, Signal Cycle=88.81
+2024-11-16 22:29:33,602 - INFO - Node 70: Capacity=5, Signal Cycle=66.24
+2024-11-16 22:29:33,602 - INFO - Node 71: Capacity=5, Signal Cycle=52.38
+2024-11-16 22:29:33,602 - INFO - Node 72: Capacity=8, Signal Cycle=42.62
+2024-11-16 22:29:33,602 - INFO - Node 73: Capacity=8, Signal Cycle=52.48
+2024-11-16 22:29:33,602 - INFO - Node 74: Capacity=8, Signal Cycle=102.72
+2024-11-16 22:29:33,602 - INFO - Node 75: Capacity=5, Signal Cycle=34.55
+2024-11-16 22:29:33,602 - INFO - Node 76: Capacity=5, Signal Cycle=117.21
+2024-11-16 22:29:33,602 - INFO - Node 77: Capacity=6, Signal Cycle=44.97
+2024-11-16 22:29:33,602 - INFO - Node 78: Capacity=6, Signal Cycle=107.82
+2024-11-16 22:29:33,602 - INFO - Node 79: Capacity=6, Signal Cycle=64.11
+2024-11-16 22:29:33,602 - INFO - Node 80: Capacity=7, Signal Cycle=113.39
+2024-11-16 22:29:33,602 - INFO - Node 81: Capacity=7, Signal Cycle=68.07
+2024-11-16 22:29:33,602 - INFO - Node 82: Capacity=9, Signal Cycle=89.57
+2024-11-16 22:29:33,602 - INFO - Node 83: Capacity=6, Signal Cycle=56.70
+2024-11-16 22:29:33,602 - INFO - Node 84: Capacity=9, Signal Cycle=96.22
+2024-11-16 22:29:33,602 - INFO - Node 85: Capacity=7, Signal Cycle=35.14
+2024-11-16 22:29:33,602 - INFO - Node 86: Capacity=9, Signal Cycle=112.74
+2024-11-16 22:29:33,602 - INFO - Node 87: Capacity=5, Signal Cycle=116.47
+2024-11-16 22:29:33,602 - INFO - Node 88: Capacity=6, Signal Cycle=36.17
+2024-11-16 22:29:33,602 - INFO - Node 89: Capacity=6, Signal Cycle=66.34
+2024-11-16 22:29:33,602 - INFO - Node 90: Capacity=9, Signal Cycle=52.16
+2024-11-16 22:29:33,602 - INFO - Node 91: Capacity=9, Signal Cycle=37.38
+2024-11-16 22:29:33,602 - INFO - Node 92: Capacity=9, Signal Cycle=77.05
+2024-11-16 22:29:33,602 - INFO - Node 93: Capacity=6, Signal Cycle=90.28
+2024-11-16 22:29:33,602 - INFO - Node 94: Capacity=7, Signal Cycle=65.62
+2024-11-16 22:29:33,602 - INFO - Node 95: Capacity=7, Signal Cycle=71.15
+2024-11-16 22:29:33,602 - INFO - Node 96: Capacity=5, Signal Cycle=30.84
+2024-11-16 22:29:33,602 - INFO - Node 97: Capacity=9, Signal Cycle=119.65
+2024-11-16 22:29:33,602 - INFO - Node 98: Capacity=6, Signal Cycle=75.53
+2024-11-16 22:29:33,602 - INFO - Node 99: Capacity=7, Signal Cycle=109.28
+2024-11-16 22:29:33,602 - INFO - Edge 0->92: Capacity=7
+2024-11-16 22:29:33,602 - INFO - Edge 0->76: Capacity=7
+2024-11-16 22:29:33,602 - INFO - Edge 0->9: Capacity=6
+2024-11-16 22:29:33,602 - INFO - Edge 1->87: Capacity=8
+2024-11-16 22:29:33,602 - INFO - Edge 2->14: Capacity=9
+2024-11-16 22:29:33,602 - INFO - Edge 2->75: Capacity=10
+2024-11-16 22:29:33,602 - INFO - Edge 3->94: Capacity=7
+2024-11-16 22:29:33,602 - INFO - Edge 4->3: Capacity=9
+2024-11-16 22:29:33,602 - INFO - Edge 5->93: Capacity=10
+2024-11-16 22:29:33,602 - INFO - Edge 5->84: Capacity=9
+2024-11-16 22:29:33,602 - INFO - Edge 6->14: Capacity=5
+2024-11-16 22:29:33,602 - INFO - Edge 7->29: Capacity=10
+2024-11-16 22:29:33,602 - INFO - Edge 7->51: Capacity=9
+2024-11-16 22:29:33,602 - INFO - Edge 8->49: Capacity=7
+2024-11-16 22:29:33,602 - INFO - Edge 8->97: Capacity=10
+2024-11-16 22:29:33,602 - INFO - Edge 8->43: Capacity=5
+2024-11-16 22:29:33,602 - INFO - Edge 8->4: Capacity=6
+2024-11-16 22:29:33,602 - INFO - Edge 9->77: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 10->70: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 11->27: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 11->96: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 13->11: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 13->80: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 13->31: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 15->48: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 17->31: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 17->54: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 18->33: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 19->27: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 19->80: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 20->87: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 20->58: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 20->69: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 22->64: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 25->19: Capacity=8
+2024-11-16 22:29:33,603 - INFO - Edge 26->85: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 27->72: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 27->83: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 27->69: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 28->17: Capacity=8
+2024-11-16 22:29:33,603 - INFO - Edge 28->87: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 29->64: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 29->98: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 29->12: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 29->4: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 30->7: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 30->72: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 31->20: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 31->28: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 31->60: Capacity=8
+2024-11-16 22:29:33,603 - INFO - Edge 32->70: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 33->67: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 34->89: Capacity=8
+2024-11-16 22:29:33,603 - INFO - Edge 34->81: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 34->8: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 35->31: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 35->0: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 35->85: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 37->80: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 37->10: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 37->55: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 38->81: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 40->51: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 41->98: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 41->62: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 42->9: Capacity=8
+2024-11-16 22:29:33,603 - INFO - Edge 43->35: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 43->14: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 45->44: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 45->54: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 46->20: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 46->39: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 47->45: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 47->97: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 48->12: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 48->35: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 48->76: Capacity=5
+2024-11-16 22:29:33,603 - INFO - Edge 51->46: Capacity=7
+2024-11-16 22:29:33,603 - INFO - Edge 51->85: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 52->24: Capacity=8
+2024-11-16 22:29:33,603 - INFO - Edge 52->59: Capacity=9
+2024-11-16 22:29:33,603 - INFO - Edge 53->28: Capacity=10
+2024-11-16 22:29:33,603 - INFO - Edge 54->74: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 54->76: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 56->66: Capacity=6
+2024-11-16 22:29:33,603 - INFO - Edge 57->75: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 57->15: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 58->68: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 58->81: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 59->48: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 59->67: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 62->27: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 63->50: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 64->97: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 64->77: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 65->63: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 65->30: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 68->93: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 68->33: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 68->98: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 68->57: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 69->11: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 69->16: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 70->21: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 70->29: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 71->25: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 73->24: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 73->60: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 75->54: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 75->28: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 77->3: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 77->33: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 77->54: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 79->46: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 81->14: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 81->21: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 82->58: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 82->12: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 83->47: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 84->60: Capacity=9
+2024-11-16 22:29:33,604 - INFO - Edge 84->55: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 86->94: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 86->83: Capacity=9
+2024-11-16 22:29:33,604 - INFO - Edge 87->82: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 87->68: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 88->71: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 88->25: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 89->69: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 89->54: Capacity=9
+2024-11-16 22:29:33,604 - INFO - Edge 90->8: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 90->80: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 91->83: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 91->40: Capacity=9
+2024-11-16 22:29:33,604 - INFO - Edge 91->39: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 92->14: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 92->33: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 92->73: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 93->62: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 93->6: Capacity=9
+2024-11-16 22:29:33,604 - INFO - Edge 93->43: Capacity=9
+2024-11-16 22:29:33,604 - INFO - Edge 94->13: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 95->71: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 95->74: Capacity=9
+2024-11-16 22:29:33,604 - INFO - Edge 96->34: Capacity=6
+2024-11-16 22:29:33,604 - INFO - Edge 96->93: Capacity=7
+2024-11-16 22:29:33,604 - INFO - Edge 97->20: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 97->43: Capacity=10
+2024-11-16 22:29:33,604 - INFO - Edge 98->82: Capacity=8
+2024-11-16 22:29:33,604 - INFO - Edge 99->7: Capacity=5
+2024-11-16 22:29:33,604 - INFO - Edge 99->67: Capacity=9
